@@ -17,6 +17,8 @@ def bind():
 def split():
   ping = '__null af__'
   binder = []
+  import os
+  os.remove("ys_ping.data.txt")
 
 def end():
   binder = ["PROGRAM ENDED"]
