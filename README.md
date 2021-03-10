@@ -1,6 +1,6 @@
 ## yishdi
 ### How to use:
-##### Make sure the `ys_config.txt` is in the `📁 installer` folder. Using a custom `config` file? go [here](LINK).
+##### Make sure the `ys_config.txt` is in the `📁 installer` folder. Using a custom `config` file? go [here](https://github.com/K-Dub1234/yishdi/blob/Master/CUSTOM.md).
 ##### Running `installer.py` will set up and deploy yishdi.
 ### Usage:
 #### ys_errors:
