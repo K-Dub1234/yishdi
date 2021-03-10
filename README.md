@@ -40,7 +40,7 @@ split():
   binder = []
 # splits ping
   
-  end():
+end():
   binder = ["PROGRAM ENDED"]
   ping = '__null af__'
   print('goodbye')
