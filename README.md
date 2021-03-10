@@ -48,3 +48,34 @@ end():
 # ends file
 
 ```
+
+#### (.js) ys_:
+```javascript
+// Makes a button linking to this GitHub page
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function openWin() {
+  window.open("https://github.com/K-Dub1234/yishdi");
+}
+</script>
+</head>
+<body>
+
+<form>
+  <input type="button" value="See it on GitHub" onclick="openWin()">
+</form>
+
+</body>
+</html>
+```
+#### (.js) ys_mptps-handler:
+```javascript
+// Mandatory Ping Transfer Protocol Secure (MPTPS)
+pingID = Math.floor(Math.random() * 1.001);
+var pings = {from:101, to:101, ID:pingID}; // use this to declare ports.
+// 101 is the standard port number.
+var trnsdata = pings.from * pings.to;
+window.alert('mptps://ping.js.ys');
+```
