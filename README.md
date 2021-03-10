@@ -49,8 +49,8 @@ end():
 
 ```
 
-#### (.js) ys_:
-```javascript
+#### (.html) ys_:
+```html
 // Makes a button linking to this GitHub page
 <!DOCTYPE html>
 <html>
